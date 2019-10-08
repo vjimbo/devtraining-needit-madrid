@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="needit_staging" max_length="40" name="x_58872_needit_needit_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=test" label="test" max_length="40" name="u_test" type="string"/>
+    </element>
+</database>
